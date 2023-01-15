@@ -1,0 +1,3 @@
+1. Buffer vs Stream
+2. Async vs Sync
+3. Event raise and register listner. 1st register a listner then raise event.should maintain the order
